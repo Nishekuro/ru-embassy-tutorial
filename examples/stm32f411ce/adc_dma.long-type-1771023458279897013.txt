@@ -1,0 +1,1 @@
+embassy_stm32::peripherals::DMA2_CH2: embassy_stm32::adc::RxDma<_>

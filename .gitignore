@@ -1,0 +1,3 @@
+embassy/
+**/target/
+NOTE.md
